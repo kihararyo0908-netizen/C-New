@@ -1,13 +1,7 @@
 ﻿#include <iostream> // 標準ライブラリ（入出力）　
-
+#include "hennsuu.h" // 自作ヘッダーファイル（関数の宣言）
 using namespace std;
 
-// ----------------------------
-// 関数の宣言(hennsuu.cpp に中身がある)
-// ----------------------------
-double TriangleArea(double base, double height); // 三角形
-double TrapezoidArea(double top, double bottom, double height1); // 台形
-double CircleArea(double radius); // 円
 int main() {
 
 	// ------------------------------
@@ -32,10 +26,10 @@ int main() {
 	double top, bottom, height1;
 
 	cout << "上底の入力:";
-	cin >> top; // 上底を入力
+	cin >> top;     // 上底を入力
 
 	cout << "下底の入力:";
-	cin >> bottom; // 下底を入力
+	cin >> bottom;  // 下底を入力
 
 	cout << "高さの入力:";
 	cin >> height1; // 高さを入力

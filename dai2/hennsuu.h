@@ -19,3 +19,9 @@ double TriangleArea(double base, double height);
 // height : 高さ
 // ----------------------------
 double TrapezoidArea(double top, double bottom, double height1);
+
+// ----------------------------
+// 円の面積を求める関数の宣言
+// radius : 半径
+// ----------------------------
+double CircleArea(double radius);
