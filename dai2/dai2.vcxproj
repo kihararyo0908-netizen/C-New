@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="10.13.Main.cpp" />
+    <ClCompile Include="10.13.MainFunctions.cpp" />
     <ClCompile Include="10.13.Functions.cpp" />
     <ClCompile Include="CondOp1d.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>

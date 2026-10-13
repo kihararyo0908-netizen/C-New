@@ -207,7 +207,7 @@
     <ClCompile Include="Static1.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="10.13.Main.cpp">
+    <ClCompile Include="10.13.MainFunctions.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="10.13.Functions.cpp">
