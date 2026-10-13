@@ -37,5 +37,7 @@ double TrapezoidArea(double top, double bottom, double height1) {
 // const を使うことで「誤って値を書き換えられない」ようにする
 const double PI = 3.14;
 double CircleArea(double radius) {
+
+	// 円の面積 = π x 半径 x 半径
 	return PI * radius * radius;
 }
