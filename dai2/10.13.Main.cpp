@@ -1,5 +1,5 @@
 ﻿#include <iostream> // 標準ライブラリ（入出力）　
-#include "hennsuu.h" // 自作ヘッダーファイル（関数の宣言）
+#include "Functions.h" // 自作ヘッダーファイル（関数の宣言）
 using namespace std;
 
 int main() {

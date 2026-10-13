@@ -1,4 +1,4 @@
-#include "hennsuu.h"
+#include "Functions.h"
 // 自作ヘッダーファイルを読み込む
 // ここで TriangleArea / TrapezoidArea / CircleArea の「宣言」を取得する
 // （中身の実装はこの cpp に書く
