@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dai2/dai2.vcxproj" Id="b75bc7bc-b4ba-47b7-9a39-be7d620ea6d4" />
+</Solution>
