@@ -56,5 +56,5 @@ int main() {
 	// hennsuu.cpp にある CircleArea() を呼び出す
 	double area2 = CircleArea(radius);
 	cout << "円の面積は" << area2 << "です。" << endl;
-	return 0;
+	return 0; // 正常に終了
 }
